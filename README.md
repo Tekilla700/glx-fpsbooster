@@ -1,6 +1,10 @@
 # glx-fpsbooster
 A simple fpsboost script for qbcore
 
+preview : 
+
+https://streamable.com/kaq7sj
+
 instalation :
 
 1- drage and drop glx-fpsglasses to ressouces folder
